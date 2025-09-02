@@ -12,9 +12,16 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" title="Css3"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
     <a href="https://github.com/Tiaansu" title="python (a little bit)"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" title="Cplusplus"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" title="Cplusplus"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></a>
+</div>
 </div>
 
 <div align="center">
     <h2>Tool I know/use</h2>
     <a href="https://code.visualstudio.com" target="_blank" title="Visual Studio Code"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
+    <a href="https://code.visualstudio.com" target="_blank" title="Visual Studio Code"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"></a>
+    <a href="https://Github.com" target="_blank" title="Visual Studio Code"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
+     <a href="https://Git.com" target="_blank" title="Visual Studio Code"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+</div>
+</div>
 </div>
